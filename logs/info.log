@@ -1,0 +1,447 @@
+2018 Jul 30 00:37:29,452: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 00:37:29,460: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:37:29,460: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:37:29,460: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:37:29,469: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 00:37:29,475: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 00:37:29,479: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 00:37:29,479: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 00:37:29,479: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:37:29,479: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:37:29,480: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:37:29,480: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:37:29,480: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:37:29,480: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 00:37:29,481: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 00:37:29,481: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:37:29,481: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 00:37:29,481: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:37:29,482: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 00:37:29,482: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:37:29,482: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 00:37:29,483: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:37:29,483: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 00:37:29,487: INFO : Jumo Loan Processor | main |  Writing to File  
+2018 Jul 30 00:37:29,488: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 00:40:31,468: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 00:40:31,479: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:40:31,479: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:40:31,479: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:40:31,490: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 00:40:31,495: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 00:40:31,498: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 00:40:31,498: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 00:40:31,499: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:31,499: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:40:31,499: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:31,499: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:40:31,500: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:40:31,500: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 00:40:31,500: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 00:40:31,500: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:31,501: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 00:40:31,501: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:31,501: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 00:40:31,502: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:31,502: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 00:40:31,503: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:31,503: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 00:40:31,509: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 00:40:31,510: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@17a7cec2 ]
+2018 Jul 30 00:40:31,510: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@65b3120a ]
+2018 Jul 30 00:40:31,511: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@6f539caf ]
+2018 Jul 30 00:40:31,511: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@79fc0f2f ]
+2018 Jul 30 00:40:31,512: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@50040f0c ]
+2018 Jul 30 00:40:31,512: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@2dda6444 ]
+2018 Jul 30 00:40:31,512: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@5e9f23b4 ]
+2018 Jul 30 00:40:31,513: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 00:40:42,799: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 00:40:42,816: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:40:42,816: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:40:42,817: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:40:42,828: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 00:40:42,832: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 00:40:42,834: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 00:40:42,834: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 00:40:42,835: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:42,835: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:40:42,835: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:42,836: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:40:42,836: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:40:42,837: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 00:40:42,837: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 00:40:42,837: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:42,839: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 00:40:42,840: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:42,840: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 00:40:42,841: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:42,841: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 00:40:42,841: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:40:42,842: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 00:40:42,845: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 00:40:42,846: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@17a7cec2 ]
+2018 Jul 30 00:40:42,846: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@65b3120a ]
+2018 Jul 30 00:40:42,846: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@6f539caf ]
+2018 Jul 30 00:40:42,847: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@79fc0f2f ]
+2018 Jul 30 00:40:42,847: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@50040f0c ]
+2018 Jul 30 00:40:42,847: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@2dda6444 ]
+2018 Jul 30 00:40:42,847: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Ljava.lang.String;@5e9f23b4 ]
+2018 Jul 30 00:40:42,848: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 00:41:18,185: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 00:41:18,193: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:41:18,193: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:41:18,193: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:41:18,204: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 00:41:18,208: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 00:41:18,211: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 00:41:18,211: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 00:41:18,211: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:41:18,211: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:41:18,212: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:41:18,212: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:41:18,212: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:41:18,212: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 00:41:18,212: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 00:41:18,213: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:41:18,213: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 00:41:18,213: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:41:18,213: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 00:41:18,213: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:41:18,214: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 00:41:18,214: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:41:18,214: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 00:41:18,219: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 00:41:18,219: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 00:41:18,219: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 00:41:18,219: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 00:41:18,220: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 00:41:18,220: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 00:41:18,220: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 00:41:18,220: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 00:41:18,221: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 00:43:38,357: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 00:43:38,368: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:43:38,368: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:43:38,368: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:43:38,384: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 00:43:38,389: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 00:43:38,394: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 00:43:38,395: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 00:43:38,395: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:38,395: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:43:38,396: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:38,397: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:43:38,397: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:43:38,397: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 00:43:38,398: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 00:43:38,398: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:38,398: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 00:43:38,398: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:38,399: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 00:43:38,399: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:38,400: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 00:43:38,400: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:38,400: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 00:43:38,404: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 00:43:38,405: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 00:43:38,405: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 00:43:38,405: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 00:43:38,406: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 00:43:38,406: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 00:43:38,406: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 00:43:38,407: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 00:43:38,407: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 00:43:41,553: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 00:43:41,565: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:43:41,565: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:43:41,566: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:43:41,577: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 00:43:41,580: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 00:43:41,584: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 00:43:41,585: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 00:43:41,585: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:41,585: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:43:41,586: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:41,586: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:43:41,586: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:43:41,587: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 00:43:41,587: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 00:43:41,587: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:41,587: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 00:43:41,588: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:41,588: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 00:43:41,588: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:41,588: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 00:43:41,589: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:43:41,589: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 00:43:41,593: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 00:43:41,594: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 00:43:41,594: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 00:43:41,594: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 00:43:41,595: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 00:43:41,595: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 00:43:41,595: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 00:43:41,596: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 00:43:41,596: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 00:59:50,215: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 00:59:50,226: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:59:50,226: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:59:50,227: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 00:59:50,246: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 00:59:50,251: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 00:59:50,261: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 00:59:50,261: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 00:59:50,261: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:59:50,261: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:59:50,262: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:59:50,262: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:59:50,262: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 00:59:50,262: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 00:59:50,263: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 00:59:50,263: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:59:50,263: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 00:59:50,263: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:59:50,263: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 00:59:50,264: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:59:50,264: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 00:59:50,264: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 00:59:50,264: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 00:59:50,270: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 00:59:50,270: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 00:59:50,271: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 00:59:50,271: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 00:59:50,272: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 00:59:50,272: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 00:59:50,272: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 00:59:50,273: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 00:59:50,273: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 01:00:02,662: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 01:00:02,670: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:00:02,670: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:00:02,671: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:00:02,678: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 01:00:02,680: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 01:00:02,683: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 01:00:02,683: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 01:00:02,683: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:00:02,683: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:00:02,684: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:00:02,684: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:00:02,684: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:00:02,684: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 01:00:02,684: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 01:00:02,684: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:00:02,685: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 01:00:02,685: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:00:02,685: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 01:00:02,685: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:00:02,685: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 01:00:02,685: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:00:02,686: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 01:00:02,692: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 01:00:02,693: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 01:00:02,693: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 01:00:02,693: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 01:00:02,694: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 01:00:02,694: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 01:00:02,694: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 01:00:02,695: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 01:00:02,696: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 01:01:41,320: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 01:01:41,330: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:01:41,330: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:01:41,331: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:01:41,343: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 01:01:41,347: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 01:01:41,351: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 01:01:41,352: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 01:01:41,352: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:41,352: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:01:41,352: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:41,353: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:01:41,353: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:01:41,353: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 01:01:41,353: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 01:01:41,354: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:41,354: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 01:01:41,355: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:41,355: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 01:01:41,355: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:41,358: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 01:01:41,358: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:41,359: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 01:01:41,365: INFO : Jumo Loan Processor | main |  Adding Headers Network,Month,Product,Count,Sum
+2018 Jul 30 01:01:41,365: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 01:01:41,366: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 01:01:41,366: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 01:01:41,367: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 01:01:41,367: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 01:01:41,368: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 01:01:41,368: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 01:01:41,368: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 01:01:41,369: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 01:01:43,962: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 01:01:43,970: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:01:43,971: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:01:43,971: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/CrackJumo/Loans.csv
+2018 Jul 30 01:01:43,987: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 01:01:43,991: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 01:01:43,999: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 01:01:43,999: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 01:01:44,000: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:44,000: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:01:44,001: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:44,001: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:01:44,001: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:01:44,001: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 01:01:44,006: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 01:01:44,006: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:44,007: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 01:01:44,007: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:44,007: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 01:01:44,008: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:44,008: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 01:01:44,008: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:01:44,009: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 01:01:44,013: INFO : Jumo Loan Processor | main |  Adding Headers Network,Month,Product,Count,Sum
+2018 Jul 30 01:01:44,014: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/CrackJumo/OutPut.csv
+2018 Jul 30 01:01:44,015: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 01:01:44,015: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 01:01:44,015: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 01:01:44,015: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 01:01:44,016: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 01:01:44,016: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 01:01:44,016: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 01:01:44,017: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 01:33:34,171: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 01:33:34,176: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:33:34,176: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:33:34,176: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:33:34,180: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 01:33:34,183: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 01:33:34,186: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 01:33:34,186: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 01:33:34,186: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:33:34,187: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:33:34,187: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:33:34,187: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:33:34,187: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:33:34,187: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 01:33:34,188: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 01:33:34,188: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:33:34,193: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 01:33:34,194: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:33:34,194: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 01:33:34,194: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:33:34,194: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 01:33:34,195: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:33:34,195: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 01:33:34,198: INFO : Jumo Loan Processor | main |  Adding Headers Network,Month,Product,Count,Sum
+2018 Jul 30 01:33:34,199: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/LoanProcessor/OutPut.csv
+2018 Jul 30 01:33:34,200: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 01:33:34,200: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 01:33:34,201: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 01:33:34,201: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 01:33:34,201: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 01:33:34,202: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 01:33:34,202: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 01:33:34,202: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 01:49:49,581: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 01:49:49,587: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:49:49,587: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:49:49,587: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:49:49,591: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 01:49:49,593: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 01:49:49,596: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 01:49:49,596: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 01:49:49,596: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:49:49,597: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:49:49,597: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:49:49,597: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:49:49,597: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:49:49,598: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 01:49:49,598: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 01:49:49,598: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:49:49,598: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 01:49:49,599: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:49:49,599: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 01:49:49,599: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:49:49,599: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 01:49:49,600: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:49:49,600: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 01:49:49,604: INFO : Jumo Loan Processor | main |  Adding Headers Network,Month,Product,Count,Sum
+2018 Jul 30 01:49:49,604: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/LoanProcessor/OutPut.csv
+2018 Jul 30 01:49:49,605: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 01:49:49,605: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 01:49:49,605: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 01:49:49,605: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 01:49:49,606: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 01:49:49,606: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 01:49:49,606: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 01:49:49,607: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 01:50:56,720: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 01:50:56,734: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:50:56,735: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:50:56,735: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:50:56,757: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 01:50:56,761: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 01:50:56,765: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 01:50:56,766: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 01:50:56,766: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:50:56,766: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:50:56,767: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:50:56,767: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:50:56,767: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:50:56,767: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 01:50:56,768: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 01:50:56,768: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:50:56,768: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 01:50:56,768: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:50:56,769: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 01:50:56,769: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:50:56,769: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 01:50:56,770: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:50:56,770: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 01:50:56,776: INFO : Jumo Loan Processor | main |  Adding Headers Network,Month,Product,Count,Sum
+2018 Jul 30 01:50:56,776: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/LoanProcessor/OutPut.csv
+2018 Jul 30 01:50:56,777: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 01:50:56,778: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 01:50:56,778: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 01:50:56,779: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 01:50:56,779: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 01:50:56,780: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 01:50:56,780: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 01:50:56,781: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 
+2018 Jul 30 01:51:07,992: INFO : Jumo Loan Processor | com.loanProcessor.com.utils.Logging | Loggers initialized...
+2018 Jul 30 01:51:08,001: INFO :  ############# BEGIN PROCESSIONG ################# : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:51:08,001: INFO :  Retrieve File Name : /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:51:08,001: INFO : Jumo Loan Processor | main |   /Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv
+2018 Jul 30 01:51:08,010: INFO : Jumo Loan Processor | main |  Parsing  Loans 
+2018 Jul 30 01:51:08,013: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Mar:Loan Product 1 ]
+2018 Jul 30 01:51:08,016: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0]} ]
+2018 Jul 30 01:51:08,016: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Mar:Loan Product 1 ]
+2018 Jul 30 01:51:08,016: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:51:08,017: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:51:08,017: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 3:Mar:Loan Product 2= [count=1, sum=2084.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:51:08,018: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:51:08,018: INFO : Jumo Loan Processor | main |  Found Existing Key in Hash Map With Key [ Network 3:Mar:Loan Product 2 ]
+2018 Jul 30 01:51:08,018: INFO : Jumo Loan Processor | main |  New Count: [1 ] New Sum [ 2084.0 ]
+2018 Jul 30 01:51:08,019: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 1 ]
+2018 Jul 30 01:51:08,019: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:51:08,019: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 3:Apr:Loan Product 3 ]
+2018 Jul 30 01:51:08,019: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:51:08,019: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 2:Apr:Loan Product 3 ]
+2018 Jul 30 01:51:08,020: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:51:08,020: INFO : Jumo Loan Processor | main |  Tuple Key Pair [ Network 1:Apr:Loan Product 2 ]
+2018 Jul 30 01:51:08,020: INFO : Jumo Loan Processor | main |  Added New Tuple to Hash Map [ {Network 2:Apr:Loan Product 3= [count=1, sum=1747.0], Network 2:Apr:Loan Product 1= [count=1, sum=5671.0], Network 1:Apr:Loan Product 2= [count=1, sum=1801.0], Network 3:Apr:Loan Product 3= [count=1, sum=1928.0], Network 3:Mar:Loan Product 2= [count=2, sum=5182.0], Network 1:Mar:Loan Product 1= [count=1, sum=1000.0], Network 2:Mar:Loan Product 1= [count=1, sum=1122.0]} ]
+2018 Jul 30 01:51:08,020: INFO : Jumo Loan Processor | main |  Begin Writing To File 
+2018 Jul 30 01:51:08,024: INFO : Jumo Loan Processor | main |  Adding Headers Network,Month,Product,Count,Sum
+2018 Jul 30 01:51:08,025: INFO : Jumo Loan Processor | main |  Writing to File:  /Users/kamauwamatu/IdeaProjects/LoanProcessor/OutPut.csv
+2018 Jul 30 01:51:08,026: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 3, 1, 1747.0] ]
+2018 Jul 30 01:51:08,026: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Apr, Loan Product 1, 1, 5671.0] ]
+2018 Jul 30 01:51:08,026: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Apr, Loan Product 2, 1, 1801.0] ]
+2018 Jul 30 01:51:08,027: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Apr, Loan Product 3, 1, 1928.0] ]
+2018 Jul 30 01:51:08,027: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 3, Mar, Loan Product 2, 2, 5182.0] ]
+2018 Jul 30 01:51:08,028: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 1, Mar, Loan Product 1, 1, 1000.0] ]
+2018 Jul 30 01:51:08,028: INFO : Jumo Loan Processor | main |  Added new row with values : [  [Network 2, Mar, Loan Product 1, 1, 1122.0] ]
+2018 Jul 30 01:51:08,029: INFO : Jumo Loan Processor | main |   ############### END PROCESSING ############### 

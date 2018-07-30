@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <!-- Log configs (use full paths to the log files to specify location) -->
+    <entry key="InfoLogLevel">INFO</entry>
+    <entry key="ErrorLogLevel">ERROR</entry>
+    <entry key="InfoLogFile">/Users/kamauwamatu/IdeaProjects/LoanProcessor/logs/info.log</entry>
+    <entry key="ErrorLogFile">/Users/kamauwamatu/IdeaProjects/LoanProcessor/logs/error.log</entry>
+    <entry key="loanCSVFile">/Users/kamauwamatu/IdeaProjects/LoanProcessor/Loans.csv</entry>
+    <entry key="loanOutPutFile">/Users/kamauwamatu/IdeaProjects/LoanProcessor/OutPut.csv</entry>
+    <entry key="outPuTheader">Network,Month,Product,Count,Sum</entry>
+
+</properties>
